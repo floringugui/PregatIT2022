@@ -1,8 +1,9 @@
 ﻿// See https://aka.ms/new-console-template for more information
 Console.WriteLine("Hello, World!");
 
-
-if(true)
+if (true)
 {
     Console.WriteLine("Number is");
 }
+
+// test
